@@ -331,4 +331,9 @@ footer {
   .contact {
     padding: 3rem 20rem 6rem 20rem;
   }
+
+  .contact__first-name,
+  .contact__last-name {
+    width: 50%;
+  }
 }
